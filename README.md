@@ -47,4 +47,4 @@ Just build the main.cpp/main.c file in your C++/C IDE/compiler (Visual Studio fo
 
 ---
 
-Welcome you to find bugs and submit PR! Thank you!
+Welcome you to find bugs and submit PR! Thank you!!
